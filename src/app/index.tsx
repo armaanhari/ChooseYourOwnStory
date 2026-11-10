@@ -3,7 +3,7 @@ import { Link } from "expo-router";
 
 import { StyleSheet, View } from "react-native";
 
-const bookCover = require('@/assets/images/assets/images/Gemini_Generated_Image_q61jpwq61jpwq61j.jpeg');
+const bookCover = require('@/assets/images/Gemini_Generated_Image_q61jpwq61jpwq61j.jpeg');
 
 export default function Index() {
   return (
